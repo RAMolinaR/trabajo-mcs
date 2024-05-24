@@ -1,0 +1,196 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/j.eist.2019.01.004",
+            "ISSN": "22104224",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        24
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Köhler",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Geels",
+                    "given": "Frank W."
+                },
+                {
+                    "family": "Kern",
+                    "given": "Florian"
+                },
+                {
+                    "family": "Markard",
+                    "given": "Jochen"
+                },
+                {
+                    "family": "Onsongo",
+                    "given": "Elsie"
+                },
+                {
+                    "family": "Wieczorek",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Alkemade",
+                    "given": "Floortje"
+                },
+                {
+                    "family": "Avelino",
+                    "given": "Flor"
+                },
+                {
+                    "family": "Bergek",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Boons",
+                    "given": "Frank"
+                },
+                {
+                    "family": "Fünfschilling",
+                    "given": "Lea"
+                },
+                {
+                    "family": "Hess",
+                    "given": "David"
+                },
+                {
+                    "family": "Holtz",
+                    "given": "Georg"
+                },
+                {
+                    "family": "Hyysalo",
+                    "given": "Sampsa"
+                },
+                {
+                    "family": "Jenkins",
+                    "given": "Kirsten"
+                },
+                {
+                    "family": "Kivimaa",
+                    "given": "Paula"
+                },
+                {
+                    "family": "Martiskainen",
+                    "given": "Mari"
+                },
+                {
+                    "family": "McMeekin",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Mühlemeier",
+                    "given": "Marie Susan"
+                },
+                {
+                    "family": "Nykvist",
+                    "given": "Bjorn"
+                },
+                {
+                    "family": "Pel",
+                    "given": "Bonno"
+                },
+                {
+                    "family": "Raven",
+                    "given": "Rob"
+                },
+                {
+                    "family": "Rohracher",
+                    "given": "Harald"
+                },
+                {
+                    "family": "Sandén",
+                    "given": "Björn"
+                },
+                {
+                    "family": "Schot",
+                    "given": "Johan"
+                },
+                {
+                    "family": "Sovacool",
+                    "given": "Benjamin"
+                },
+                {
+                    "family": "Turnheim",
+                    "given": "Bruno"
+                },
+                {
+                    "family": "Welch",
+                    "given": "Dan"
+                },
+                {
+                    "family": "Wells",
+                    "given": "Peter"
+                }
+            ],
+            "container-title": "Environmental Innovation and Societal Transitions",
+            "id": "kohlerAgendaSustainabilityTransitions2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "1-32",
+            "title": "An agenda for sustainability transitions research: State of the art and future directions",
+            "title-short": "An agenda for sustainability transitions research",
+            "type": "article-journal",
+            "volume": "31"
+        },
+        {
+            "DOI": "10.1086/703391",
+            "ISSN": "0011-3204, 1537-5382",
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        24
+                    ]
+                ]
+            },
+            "author": [
+                {
+                    "family": "Tsing",
+                    "given": "Anna Lowenhaupt"
+                },
+                {
+                    "family": "Mathews",
+                    "given": "Andrew S."
+                },
+                {
+                    "family": "Bubandt",
+                    "given": "Nils"
+                }
+            ],
+            "container-title": "Current Anthropology",
+            "id": "tsingPatchyAnthropoceneLandscape2019",
+            "issue": "S20",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        8
+                    ]
+                ]
+            },
+            "language": "en-US",
+            "page": "S186-S197",
+            "title": "Patchy Anthropocene: Landscape Structure, Multispecies History, and the Retooling of Anthropology: An Introduction to Supplement 20",
+            "title-short": "Patchy Anthropocene",
+            "type": "article-journal",
+            "volume": "60"
+        }
+    ],
+    "project_biblios": []
+}
